@@ -1,0 +1,102 @@
+@font-face {
+    font-family: Futura;
+    src: url(futur.ttf);
+}
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-position-y: center;
+    font-family: futura;
+    color:black;
+}
+
+.login{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    height: 500px;
+}
+
+
+h1{
+   text-align: center;
+   
+   
+}
+
+a{
+    font-size: 12px;
+    color: white;
+}
+.box{
+    background-color: grey;
+    border-radius: 10px;
+    width: 60%;
+   
+}
+input{
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 8px;
+    padding: 8px 17px;
+
+}
+input[type= checkbox]{
+    width: 10px;
+
+
+
+}
+
+
+input[type=date]{
+    width: 200px;
+}
+
+input[type=KOMENTAR]{
+    height: 100px;
+}
+
+h1{
+    font-size: 25px;
+    font-family: futura;
+    color:#FFD700;
+    text-align: center;
+}
+
+label[for=checkbox]{
+    font-size: 10px;
+}
+
+.register{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+}
+
+.rbox{
+    background-color: grey;
+    border-radius: 10px;
+    width: 40%;
+
+}
+
+input[type=submit]{
+    background-color:#FFD700;
+    border: none;
+   
+}
+select{
+    width: 50%;
+    box-sizing: border-box;
+    border-radius: 8px;
+    padding: 11px 10px;
+
+}
+a{
+    text-align: center;
+}
+table{
+    padding: 20px;
+}
+
