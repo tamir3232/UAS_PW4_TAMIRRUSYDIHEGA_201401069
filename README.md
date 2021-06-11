@@ -1,0 +1,2 @@
+# UAS_PW4_TAMIRRUSYDIHEGA_201401069
+nama saya Tamir Rusydi Hega
